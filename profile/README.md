@@ -1,8 +1,6 @@
-This is the GitHub space for ARMS-MBON, providing access to the data outputs of the project. 
-
-Go to the [ARMS-MBON Data Landing Page](https://arms-mbon.github.io/arms-mbon-website/#) for a user-friendly guide to what data we have here.
-
-GitHub natives may prefer to continue navigating from here instead :-D
+This is the GitHub space for ARMS-MBON, providing access to the data outputs of the project. <br>
+- Go to the [ARMS-MBON Data Landing Page](https://arms-mbon.github.io/arms-mbon-website/#) for a user-friendly guide to what data we have here. (GitHub natives may prefer to continue navigating from here instead :grinning:) 
+- Go to the [ARMS-MBON project page](http://www.assembleplus.eu/research/ARMS-MBON) to learn more about the project itself
 
 
 
